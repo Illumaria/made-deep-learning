@@ -1,7 +1,7 @@
-# Basic Deep Learning (MADE S02E02)
-This repository contains notebooks for the Basic Deep Learning course.
+# Fundamentals of Deep Learning (MADE S02E02)
+This repository contains notebooks for the Fundamentals of Deep Learning course.
 
-**Tip:** a single folder can be downloaded with [DownGit](https://downgit.github.io/).
+Loading the entire repository can take a considerable amount of time. A single folder can be downloaded via [DownGit](https://downgit.github.io/).
 
 ### Lectures
 
